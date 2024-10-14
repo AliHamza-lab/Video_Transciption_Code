@@ -10,7 +10,7 @@ This Python tool transcribes audio files using the `pydub` and `speech_recogniti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone # Audio Transcription Tool
+   git clone https://github.com/AliHamza-lab/Video_Transciption_Code.git
 
 This Python tool transcribes audio files using the `pydub` and `speech_recognition` libraries. It splits large audio files into smaller chunks, normalizes them, and transcribes the audio using Google’s Speech Recognition API.
 
